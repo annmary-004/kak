@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="90 180 700 240" fill="none">
+  <!-- KAK Vector Letters (White with Cyan Triangle) -->
+  <path key="0" d="M NaN NaN L NaN NaN C NaN NaN NaN NaN NaN NaN L NaN NaN C NaN NaN NaN NaN NaN NaN L NaN NaN C NaN NaN NaN NaN NaN NaN" fill="#0594FD" />
+  <path key="1" d="M NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN Z" fill="#FFFFFF" />
+  <path key="2" d="M NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN" fill="#FFFFFF" />
+  <path key="3" d="M NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN Z" fill="#FFFFFF" />
+  <path key="4" d="M NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN Z" fill="#FFFFFF" />
+  <path key="5" d="M NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN C NaN NaN NaN NaN NaN NaN Z" fill="#FFFFFF" />
+
+  <!-- INSTANT SOLUTIONS Text -->
+  <text 
+    x="437" 
+    y="408" 
+    text-anchor="middle" 
+    font-family="'Plus Jakarta Sans', Arial, sans-serif" 
+    font-weight="700" 
+    font-size="36.5" 
+    letter-spacing="18" 
+    fill="#0594FD"
+  >
+    INSTANT SOLUTIONS
+  </text>
+</svg>
